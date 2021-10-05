@@ -1,57 +1,86 @@
 [
     {
+        "id": "1",
         "img": "https://5.imimg.com/data5/DM/WQ/GLADMIN-51679499/adv-certification-course-in-web-design-course-500x500.png",
-        "title": "Certified Teacher",
+        "title": "Web Design",
+        "fee": "300",
         "mission": "All the teacher will be the worldclass"
     },
     {
+        "id": "2",
         "img": "https://5.imimg.com/data5/DM/WQ/GLADMIN-51679499/adv-certification-course-in-web-design-course-500x500.png",
-        "title": "Certified Teacher",
+        "title": "Web Development",
+        "fee": "300",
         "mission": "All the teacher will be the worldclass"
     },
     {
+        "id": "3",
         "img": "https://5.imimg.com/data5/DM/WQ/GLADMIN-51679499/adv-certification-course-in-web-design-course-500x500.png",
-        "title": "Certified Teacher",
+        "title": "Graphics Design",
+        "fee": "300",
         "mission": "All the teacher will be the worldclass"
     },
     {
+        "id": "4",
         "img": "https://5.imimg.com/data5/DM/WQ/GLADMIN-51679499/adv-certification-course-in-web-design-course-500x500.png",
-        "title": "Certified Teacher",
+        "title": "Data Science",
+        "fee": "300",
         "mission": "All the teacher will be the worldclass"
     },
     {
+        "id": "5",
         "img": "https://5.imimg.com/data5/DM/WQ/GLADMIN-51679499/adv-certification-course-in-web-design-course-500x500.png",
-        "title": "Certified Teacher",
+        "title": "Networking",
+        "fee": "300",
         "mission": "All the teacher will be the worldclass"
     },
     {
+        "id": "6",
         "img": "https://5.imimg.com/data5/DM/WQ/GLADMIN-51679499/adv-certification-course-in-web-design-course-500x500.png",
-        "title": "Certified Teacher",
+        "title": "Automation",
+        "fee": "300",
         "mission": "All the teacher will be the worldclass"
     },
     {
+        "id": "7",
         "img": "https://5.imimg.com/data5/DM/WQ/GLADMIN-51679499/adv-certification-course-in-web-design-course-500x500.png",
-        "title": "Certified Teacher",
+        "title": "Game Development",
+        "fee": "300",
         "mission": "All the teacher will be the worldclass"
     },
     {
+        "id": "8",
         "img": "https://5.imimg.com/data5/DM/WQ/GLADMIN-51679499/adv-certification-course-in-web-design-course-500x500.png",
-        "title": "Certified Teacher",
+        "title": "Social Media Marketing",
+        "fee": "300",
         "mission": "All the teacher will be the worldclass"
     },
     {
+        "id": "9",
         "img": "https://5.imimg.com/data5/DM/WQ/GLADMIN-51679499/adv-certification-course-in-web-design-course-500x500.png",
-        "title": "Certified Teacher",
+        "title": "Python",
+        "fee": "300",
         "mission": "All the teacher will be the worldclass"
     },
     {
+        "id": "10",
         "img": "https://5.imimg.com/data5/DM/WQ/GLADMIN-51679499/adv-certification-course-in-web-design-course-500x500.png",
-        "title": "Certified Teacher",
+        "title": "Data Structure",
+        "fee": "300",
         "mission": "All the teacher will be the worldclass"
     },
     {
+        "id": "11",
         "img": "https://5.imimg.com/data5/DM/WQ/GLADMIN-51679499/adv-certification-course-in-web-design-course-500x500.png",
-        "title": "Certified Teacher",
+        "title": "Algorithm",
+        "fee": "530",
+        "mission": "All the teacher will be the worldclass"
+    },
+    {
+        "id": "13",
+        "img": "https://5.imimg.com/data5/DM/WQ/GLADMIN-51679499/adv-certification-course-in-web-design-course-500x500.png",
+        "title": "App Development",
+        "fee": "350",
         "mission": "All the teacher will be the worldclass"
     }
 ]

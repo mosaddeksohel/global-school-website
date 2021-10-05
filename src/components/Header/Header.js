@@ -9,7 +9,9 @@ const Header = () => {
             <NavLink className="top px-3" to="/about">About</NavLink>
             <NavLink className="top px-3" to="/faculty">Faculty</NavLink>
             <NavLink className="top px-3" to="/services">Services</NavLink>
+
         </div>
+
     );
 };
 

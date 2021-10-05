@@ -9,15 +9,17 @@ const Uppor = () => {
 
         <div className="d-flex my-3 bg-info mt-0">
             <Container>
-                <div className="d-flex my-3">
-                    <div className="my-auto align-item-center">
-                        <h5>Popular online courses</h5>
-                        <h1 className="moto">The new way to learn with us</h1>
-                    </div>
-                    <div>
+                <div>
+                    <div className="d-flex my-3">
+                        <div className="my-auto align-item-center">
+                            <h5>Popular online courses</h5>
+                            <h1 className="moto">The new way to learn with us</h1>
+                        </div>
+                        <div>
 
-                        <img className="banner" src={img} alt="" />
+                            <img className="banner" src={img} alt="" />
 
+                        </div>
                     </div>
                 </div>
             </Container>

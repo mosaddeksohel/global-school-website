@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMcVNytWIXP1isA7u9rfsegJb4pzdUY_jEcw&usqp=CAU",
+        "name": "Stuart",
+        "post": "instractor"
+    },
+    {
+        "id": 2,
+        "img": "https://wl-brightside.cf.tsp.li/resize/728x/jpg/337/af8/e797ca5cab85b8864dd49a290b.jpg",
+        "name": "Farnandez",
+        "post": "Senior instractor"
+    },
+    {
+        "id": 3,
+        "img": "https://www.bgsbuniversity.org/wp-content/uploads/2021/08/Wolds-Most-Handsome-Man-Henry-Cavil.jpg",
+        "name": "Robert",
+        "post": "Assistant Instractor"
+    },
+    {
+        "id": 4,
+        "img": "https://image.shutterstock.com/image-photo/man-5059-years-mature-men-260nw-1008215185.jpg",
+        "name": "Stuart",
+        "post": "Social Media Marketer"
+    }
+]
