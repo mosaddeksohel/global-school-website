@@ -1,0 +1,18 @@
+.footer{
+    display: flex;
+    color: goldenrod;
+    justify-content: space-evenly;
+    margin-bottom: 2rem;
+}
+.services{
+    margin-top: 2rem;
+}
+.footer h3{
+    color: goldenrod;
+    align-items: center;
+}
+.right{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+
+}
