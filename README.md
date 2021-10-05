@@ -4,8 +4,8 @@ This project was bootstrapped with [Global Learning Institute](https://tender-ba
 
 ## What we have to know
 
-*Learn About Modern Technology
-*Skilled on demand on time
-*Improve skilled for balance the modern era
-*We know here whart we have to learn
+* Learn About Modern Technology
+* Skilled on demand on time
+* Improve skilled for balance the modern era
+* We know here whart we have to learn
 
